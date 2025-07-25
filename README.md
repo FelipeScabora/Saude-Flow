@@ -23,7 +23,7 @@ Para resolver este problema, **eu desenvolvi o "Saúde Flow"**, um sistema de ge
 ## 💻 Stack de Ferramentas e Conceitos Aplicados
 
 * **Plataforma:** Notion
-* **Metodologia:** Gestão de Projetos com Kanban
+* **Metodologia:** Gestão de Tarefas
 * **Conceitos:** Otimização de Processos Operacionais, Análise de Produtividade, Gerenciamento de Fluxo de Trabalho (Workflow).
 
 ## 📸 Screenshots
