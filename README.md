@@ -16,7 +16,7 @@ Para resolver este problema, **eu desenvolvi o "Saúde Flow"**, um sistema de ge
 
 * **Centralização de Demandas:** Criação de um banco de dados unificado para registrar todas as demandas, independentemente do canal de origem, com campos customizados para priorização, categorização e status.
 
-* **Gestão Visual do Fluxo:** Implementação de um painel com uma lista dos chamados, separando por filtros de status, dia, semana ou mês, além de ter uma visualização também em calendário para visualizar a agenda de atividades futuras.
+* **Gestão Visual do Fluxo:** Implementação de um painel com uma lista das demandas, separando por filtros de status, dia, semana ou mês, além de ter uma visualização também em calendário para visualizar a agenda de atividades futuras.
 
 * **Base para Análise de Produtividade:** O sistema foi estruturado para gerar dados sobre o volume de chamados, tempo de resolução e identificação de problemas recorrentes, fornecendo uma base para a análise de performance e a otimização contínua dos processos de suporte.
 
